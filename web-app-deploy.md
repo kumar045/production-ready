@@ -1,9 +1,12 @@
-CI/CD Setup to Deploy to Any Virtual Machine using GitHub Actions  
+# 🚀 COMPLETE GitHub Action (Production Ready)
+
 (SSH + Docker Compose)
 
 This guide sets up GitHub Actions to SSH into your VM and deploy your app using docker-compose whenever you push to the main branch.
 
 1) Create GitHub Actions Workflow Folder
+
+ 📂 File Location
 
 ```bash
 mkdir -p .github/workflows
